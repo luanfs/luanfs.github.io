@@ -1,0 +1,252 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{bibentry}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{url}
+
+\input{glyphtounicode}
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    \textbf{\Huge \scshape Luan da Fonseca Santos} \\ \vspace{1pt}
+    \small +55 (11) 962035039 $|$ \href{luanfonseca93@gmail.com}{{luanfonseca93@gmail.com}}
+    %\href{https://luanfs.github.io/}{luanfs.github.io/}
+    %$|$    
+    %\href{https://www.linkedin.com/in/luan-santos-b59a95168/}{{linkedin.com/in/luan-santos}}
+\end{center}
+
+%-----------Summary-----------
+\section{Summary}
+I have a PhD degree in Applied Mathematics from the University of São Paulo. 
+My primary research focus is on the development of numerical methods for geophysical fluid dynamics, with a particular emphasis on numerical weather/climate modeling, specifically the dynamical core development.
+I have experience in finite-volume and difference methods and locally refined grid generation.
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+{Institute of Mathematics and Statistics, University of São Paulo - USP}{São Paulo, SP, Brazil}
+{Ph.D. Student, Applied Mathematics}{March 2020 - May 2024}  
+
+\begin{itemize}
+	\item Project title: {Analysis and development of finite volume methods for the new generation of cubed sphere dynamical cores for the atmosphere.} Advisor: Dr. Pedro Peixoto.
+	\item \textbf{2023/09}: Research visit to the AOS - Princeton University (hosts: Dr. Joseph Mouallem and Dr. Lucas Harris).
+\end{itemize}
+      	
+    \resumeSubheading
+      {Institute of Mathematics and Statistics, University of São Paulo - USP}{São Paulo, SP, Brazil}
+      {M. Sc. Applied Mathematics}{March 2018 - March 2020}
+      \begin{itemize}
+      	\item Dissertation title: \href{https://doi.org/10.11606/D.45.2020.tde-07052020-154350}{Analysis of mimetic finite volume schemes on classical and moist shallow water models considering topography based local refinement in spherical Voronoi grids.} Advisor: Dr. Pedro Peixoto.
+      \end{itemize}
+    \resumeSubheading
+      {Institute of Mathematics and Statistics, University of São Paulo - USP}{São Paulo, SP, Brazil}
+{B. Sc. Applied Mathematics (GPA: 9.3/10)}{2014 - 2017}
+\begin{itemize}
+	\item Project title: {Local refinement and interpolation in spherical icosahedral grids.} Advisor: Dr. Pedro Peixoto.
+	\item Honorable mention for outstanding performance in the Applied Mathematics B.Sc. program. 
+\end{itemize}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Teaching Assistant}{2017 -- 2021}
+      {University of São Paulo}{São Paulo, SP, Brazil} 
+      \resumeItemListStart
+        \resumeItem{Grad courses:}   
+        \begin{itemize}[label=\textendash]
+        \item $1^{\textrm{st}}$ sem/2019, $1^{\textrm{st}}$ sem/2020 and $1^{\textrm{st}}$ sem/2021 - MAP5729 - Introduction to Numerical Analysis (Institute of Mathematics and Statistics).
+        \end{itemize} 
+        \resumeItem{Undergrad courses:}   
+        \begin{itemize}[label=\textendash]
+    	\item $2^{\textrm{nd}}$ sem/2019 - MAP2320 - Numerical methods in differential equations II (Institute of Mathematics and Statistics).
+    	\item {$2^{\textrm{nd}}$ sem/2018 - MAP0214 - Numerical Calculus with Applications to Physics (Institute of Astronomy, Geophysics and Atmospheric Sciences).}        
+    	\item{$1^{\textrm{st}}$ sem/2017 - MAC0427 - Non-linear Programming (Institute of Mathematics and Statistics).} 
+        \end{itemize}             
+
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+\section{Publication list}
+\begin{itemize}
+	\item Luan F Santos and Pedro S Peixoto (2021).  {\bf Topography based local spherical Voronoi grid refinement on classical and moist shallow-water finite volume models}, Geosci. Model Dev. Discuss., \href{https://doi.org/10.5194/gmd-14-6919-2021
+	}{https://doi.org/10.5194/gmd-14-6919-2021}.
+\end{itemize}
+
+
+%-----------Talks-----------
+\section{Talks}
+\begin{itemize}
+	\item \textbf{2023}: {Enhancing accuracy of FV3 finite-volume operators} at \textit{FV3 group meeting, 
+	GFDL/NOAA, Princeton, USA}.
+	\item \textbf{2021}: {Topography based local spherical Voronoi grid refinement on classical and moist shallow-water finite volume models} at \textit{PDEs on the sphere 2021, Offenbach, Germany (online)}.
+	\item \textbf{2019}: Poster Presentation, \href{https://collaboration.cmc.ec.gc.ca/science/pdes-2019/pdfs/poster-Luan-Santos.pdf}{Topography based local refinement in spherical Voronoi grids} at \textit{PDEs on the sphere 2019, Montréal, Québec, Canada}.
+\end{itemize}
+
+
+%-----------Participation-----------
+\section{Participation at events}
+\begin{itemize}
+	\item \textbf{2021}: Participation in the
+	ESCAPE2/Fondazione Alessandro Volta  Summer school program -
+	\textit{Towards exascale computing
+		for numerical weather prediction, Lake Como School of Advanced Studies (online)}.
+	\item \textbf{2019}: Participation in the \textit{Winter School in Atmospheric Numerical Modeling at CPTEC (Center for Weather Forecasting and Climate Studies), Cachoeira Paulista, SP, Brazil}.
+\end{itemize}
+
+
+%
+%---------- GRANTS-----------
+\section{Grants}
+\begin{itemize}
+	\item Doctoral degree scholarship  - São Paulo Research Foundation (FAPESP),  grant 20/10280-4, 2020-2024.		
+	\item Master's degree scholarship   - São Paulo Research Foundation (FAPESP),  grant 17/25191-4, 2018-2020.
+	\item Undergraduate research funding  - São Paulo Research Foundation (FAPESP), grant 17/11542-0, 2017.
+\end{itemize}
+
+ 
+%
+%---------- Links-----------
+\section{Links}
+\begin{itemize}
+	\item Personal webpage:  \href{https://luanfs.github.io/}{https://luanfs.github.io/}
+	\item Google scholar: \href{https://scholar.google.com/citations?user=lHQVgqgAAAAJ&hl}{https://scholar.google.com/citations?user=lHQVgqgAAAAJ\&hl}
+	\item ORCID:  \href{https://orcid.org/0000-0001-9084-6170}{https://orcid.org/0000-0001-9084-6170}
+\end{itemize}
+
+ 
+%
+%---------- Technical Skills -----------
+\section{Technical Skills}
+\begin{itemize}
+	\item Programming languages: Fortran, Python (NumPy, SciPy, Matplotlib, Cartopy), C, and Matlab.
+	\item Experience with parallel programming using OpenMP and MPI.
+	\item General software and tools: Linux environment, Bash scripts, Git, remote servers, SSH, Tmux, Vim, \LaTeX.
+\end{itemize}
+
+
+%---------- Additional Information -----------
+\section{Additional Information}
+\begin{itemize}
+	\item Date of birth: August 07, 1993.
+	\item Citizenship: Brazilian.
+	\item Gender: Male.
+	\item Marital status: Married. %\item Children: None.
+	\item Languages: Portuguese (native) and English (advanced).
+\end{itemize}
+
+
+
+
+%-------------------------------------------
+\end{document}
