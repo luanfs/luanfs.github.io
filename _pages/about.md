@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Luan Santos, an applied mathematician working on the development and implementation of numerical methods for weather and climate models.
+Hi there! I'm Luan Santos, an applied mathematician working on the development of numerical methods for weather and climate models
 
-My research is centered on numerical methods for dynamical core development, particularly finite-volume/difference schemes, grid generation algorithms, and grid imprinting mitigation.
+---
+
+My research focuses on numerical methods for atmospheric dynamical cores, particularly finite-volume/difference schemes, grid generation algorithms, and grid imprinting mitigation.
 
 ---
 
