@@ -21,4 +21,4 @@ My current focus is on enhancing FV3's numerical algorithms under the supervisio
 
 ---
 
-I hold a Ph.D. in Applied Mathematics, earned in May 2024, from the [Institute of Mathematics and Statistics](https://www.ime.usp.br/) at the [University of São Paulo](https://www.usp.br), under the supervision of Dr. [Pedro Peixoto](https://www.ime.usp.br/~pedrosp/).
+I hold a Ph.D. in Applied Mathematics, earned in May 2024, from the [Institute of Mathematics and Statistics](https://www.ime.usp.br/) at the [University of São Paulo](https://www.usp.br), under the supervision of [Pedro Peixoto](https://www.ime.usp.br/~pedrosp/).
