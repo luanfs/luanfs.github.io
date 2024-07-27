@@ -7,17 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Luan Santos, an applied mathematician working on the development of numerical methods for weather and climate models
+Hi there! I'm Luan Santos, an applied mathematics researcher.
+My research focuses on numerical methods for the dynamical cores of global atmospheric models, particularly finite-volume and finite-difference schemes, spherical computational grid generation, and grid imprinting mitigation.
+
 
 ---
 
-My research focuses on numerical methods for atmospheric dynamical cores, particularly finite-volume/difference schemes, grid generation algorithms, and grid imprinting mitigation.
-
----
-
-I am currently a postdoctoral researcher at Princeton University, working with the [FV3](https://www.gfdl.noaa.gov/fv3/) team at the [Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov/). 
+I am currently a postdoctoral researcher at Princeton University (July 2024 - onwards), working with the [FV3](https://www.gfdl.noaa.gov/fv3/) team at the [Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov/). 
 My current focus is on enhancing FV3's numerical algorithms under the supervision of [Lucas Harris](https://www.gfdl.noaa.gov/lucas-harris-homepage/) and [Joseph Mouallem](https://www.gfdl.noaa.gov/joseph-mouallem/).
 
 ---
 
-I hold a Ph.D. in Applied Mathematics from the [Institute of Mathematics and Statistics](https://www.ime.usp.br/) at the [University of São Paulo](https://www.usp.br), under the supervision of Dr. [Pedro Peixoto](https://www.ime.usp.br/~pedrosp/).
+I hold a Ph.D. in Applied Mathematics (May 2024)from the [Institute of Mathematics and Statistics](https://www.ime.usp.br/) at the [University of São Paulo](https://www.usp.br), under the supervision of Dr. [Pedro Peixoto](https://www.ime.usp.br/~pedrosp/).
