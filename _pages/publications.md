@@ -10,27 +10,21 @@ author_profile: true
 {% endif %}
 
 ### Papers in Review
-1. Analysis of finite-volume transport schemes on cubed-sphere grids and an accurate scheme for divergent winds
+1. Analysis of finite-volume transport schemes on cubed-sphere grids and an accurate scheme for divergent winds, *Under review* (2024)
    - Authors: Luan F. Santos and Pedro S. Peixoto
-   - Preprint: [http://dx.doi.org/10.2139/ssrn.4866660](http://dx.doi.org/10.2139/ssrn.4866660)
-   - Status: Under review
+   - Preprint DOI: [10.2139/ssrn.4866660](http://dx.doi.org/10.2139/ssrn.4866660)
 
 ### Published Papers
-1. Topography-based local spherical Voronoi grid refinement on classical and moist shallow-water finite-volume models
+1. Topography-based local spherical Voronoi grid refinement on classical and moist shallow-water finite-volume models, *Geoscientific Model Development* (2021)
    - Authors: Luan F. Santos and Pedro S. Peixoto
-   - Journal: Geoscientific Model Development
-   - Year: 2021
-   - Link: [https://doi.org/10.5194/gmd-14-6919-2021](https://doi.org/10.5194/gmd-14-6919-2021)
+   - DOI: [10.5194/gmd-14-6919-2021](https://doi.org/10.5194/gmd-14-6919-2021)
 
 ### Thesis and Dissertations
-1. Analysis of finite-volume advection schemes on cubed-sphere grids and an accurate alternative for divergent winds
-   - Thesis Type: Ph.D.
+2. Analysis of mimetic finite volume schemes on classical and moist shallow water models considering topography based local refinement in spherical Voronoi grids, *Master's dissertation* (2020)
    - Institution: University of São Paulo
-   - Year: 2024
-   - Link: [https://doi.org/10.11606/T.45.2024.tde-29052024-125153](https://doi.org/10.11606/T.45.2024.tde-29052024-125153)
+   - DOI: [10.11606/D.45.2020.tde-07052020-154350](https://doi.org/10.11606/D.45.2020.tde-07052020-154350)
 
-2. Analysis of mimetic finite volume schemes on classical and moist shallow water models considering topography based local refinement in spherical Voronoi grids
-   - Thesis Type: Master's
+1. Analysis of finite-volume advection schemes on cubed-sphere grids and an accurate alternative for divergent winds, *Ph.D. Thesis* (2024)
    - Institution: University of São Paulo
-   - Year: 2020
-   - Link: [https://doi.org/10.11606/D.45.2020.tde-07052020-154350](https://doi.org/10.11606/D.45.2020.tde-07052020-154350)
+   - DOI: [10.11606/T.45.2024.tde-29052024-125153](https://doi.org/10.11606/T.45.2024.tde-29052024-125153)
+

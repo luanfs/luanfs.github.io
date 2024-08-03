@@ -21,7 +21,7 @@ repository               : "luanfs/luanfs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_2024.png"
+  avatar           : "profile2.png"
   name             : "Luan F. Santos"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher; focus on numerical methods for atmospheric modelling equations"
