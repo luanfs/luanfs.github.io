@@ -11,9 +11,9 @@ author_profile: true
 
 ### Papers in Review
 <ol reversed>
-  <li> Analysis of finite-volume transport schemes on cubed-sphere grids and an accurate scheme for divergent winds, <em>Under review</em> (2024)
+  <li> Analysis of finite-volume transport schemes on cubed-sphere grids and an accurate scheme for divergent winds, Accepted at the <em>Journal of Computational Physics</em> (2024)
     <ul>
-    <li> Authors: Luan Santos and Pedro Peixoto</li>
+    <li> Authors: Luan Santos, Joseph Mouallem and Pedro Peixoto</li>
     <li> Preprint DOI: <a href="http://dx.doi.org/10.2139/ssrn.4866660">10.2139/ssrn.4866660 </a></li>
     </ul>
   </li>

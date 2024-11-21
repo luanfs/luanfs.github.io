@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Luan Santos, an applied mathematics researcher.
+Hi there! I am Luan Santos, an applied mathematician.
 
 My research focuses on numerical methods for dynamical cores of global atmospheric models, particularly finite-volume and finite-difference schemes, spherical computational grid generation, and mitigation of grid imprinting.
 
