@@ -9,19 +9,30 @@ author_profile: true
   <div class="wordwrap">You may also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+<!-- 
 ### Papers in Review
 <ol reversed>
   <li> Analysis of finite-volume transport schemes on cubed-sphere grids and an accurate scheme for divergent winds, Accepted at the <em>Journal of Computational Physics</em> (2024)
     <ul>
     <li> Authors: Luan Santos, Joseph Mouallem and Pedro Peixoto</li>
+    <li> DOI: <a href="https://doi.org/10.1016/j.jcp.2024.113618">10.1016/j.jcp.2024.113618 </a></li>
     <li> Preprint DOI: <a href="http://dx.doi.org/10.2139/ssrn.4866660">10.2139/ssrn.4866660 </a></li>
     </ul>
   </li>
 </ol>
+-->
 
 
 ### Published Papers
 <ol reversed>
+  <li> Analysis of finite-volume transport schemes on cubed-sphere grids and an accurate scheme for divergent winds, <em>Journal of Computational Physics</em> (2024)
+    <ul>
+    <li> Authors: Luan Santos, Joseph Mouallem and Pedro Peixoto</li>
+    <li> DOI: <a href="https://doi.org/10.1016/j.jcp.2024.113618">10.1016/j.jcp.2024.113618 </a></li>
+    <li> Preprint DOI: <a href="http://dx.doi.org/10.2139/ssrn.4866660">10.2139/ssrn.4866660 </a></li>
+    </ul>
+  </li>
+
   <li>  Topography-based local spherical Voronoi grid refinement on classical and moist shallow-water finite-volume models,  <em>Geoscientific Model Development</em> (2021)
     <ul>
     <li> Authors: Luan Santos and Pedro Peixoto</li>
