@@ -1,13 +1,15 @@
 ---
 permalink: /
-#title: "Luan F. Santos"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
+About Me
+============
 Hi there! I am Luan Santos, an applied mathematician.
 You can reach me at <a href="mailto:ls9640@princeton.edu">ls9640@princeton.edu</a>.
 
