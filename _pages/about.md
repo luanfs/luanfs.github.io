@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ============
-Hi there! I am Luan.
+Hi, I'm Luan!
 
 I am currently a [CIMES](https://cimes.princeton.edu/) postdoctoral researcher at Princeton University, working with the [FV3](https://www.gfdl.noaa.gov/fv3/) team at the [Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov/). 
 My current focus is on enhancing FV3's numerical algorithms under the supervision of Dr. [Lucas Harris](https://www.gfdl.noaa.gov/lucas-harris-homepage/) and Dr. [Joseph Mouallem](https://www.gfdl.noaa.gov/joseph-mouallem/).
