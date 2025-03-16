@@ -24,7 +24,7 @@ You can reach me at <a href="mailto:ls9640@princeton.edu">ls9640@princeton.edu</
 Research Interests
 ============
 My research focuses on the development of numerical methods for partial differential equations, particularly in the context of global atmospheric modeling.
- In particular, I work on finite-volume and finite-difference schemes, the development of spherical computational grids, and strategies to mitigate grid imprinting.
+I work on finite-volume and finite-difference schemes, the development of spherical computational grids, and strategies to mitigate grid imprinting.
 
 
 ---
