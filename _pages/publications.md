@@ -44,7 +44,7 @@ author_profile: true
 
 ### Thesis and Dissertations
 <ol reversed>
-  <li> Analysis of Finite-Volume Advection Schemes on Cubed-Sphere Grids and an Accurate Alternative for Divergent Winds, <em>Ph.D. Thesis</em> (2024)
+  <li> Analysis of Finite-Volume Advection Schemes on Cubed-Sphere Grids and an Accurate Alternative for Divergent Winds, <em>Ph.D. Thesis</em> (2024). <a href="https://luanfs.github.io/files/thesis_luan.pdf">PDF</a>.
     <ul>
       <li>Institution: University of São Paulo</li>
       <li>DOI: <a href="https://doi.org/10.11606/T.45.2024.tde-29052024-125153">10.11606/T.45.2024.tde-29052024-125153</a></li>
